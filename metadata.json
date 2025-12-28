@@ -1,0 +1,7 @@
+{
+  "name": "MYMT Shop",
+  "description": "A modern, mobile-friendly e-commerce website for fashion and digital products with AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
